@@ -25,6 +25,10 @@ li>a{
     
 }
 
+.row{
+    margin-right = 0px;
+}
+
 #InnerBanerImage{
     padding-top: 12%;
     width:80%;
